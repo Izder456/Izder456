@@ -7,7 +7,7 @@
 
 ## About Me
 
-- **I'm Currently Working On**: [Moderating Friend's Forum](https://unixhideout.solutions) *Join!*
+- **I'm Currently Working On**: [Co-Moderating Friend's Webgroup](https://unixhideout.solutions) *Join!*
 - **I'm Currently Learning**: Common Lisp
 - **Ask Me About**: OpenBSD, Gentoo, Ricing *NIX
 
@@ -32,8 +32,6 @@
 
 ### Social Stuffs
 - **[Twitter](https://twitter.com/izder456)**
-- **[Mastodon](https://ieji.de/@izder456)**
-
-### Hack Stuffs
-- **[Personal GitTea Mirror](http://srcerizder.top/izder456)**
+- **[Mastodon](https://mastodon.unixhideout.solutions/@izder456)**
+- **[Friendi.ca](https://libranet.de/profile/izder45)**
 - **[Github](https://github.com/Izder456.git)**
