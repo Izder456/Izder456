@@ -1,6 +1,5 @@
 # Heyo!
 ### *(Or Something)*
-![izder](img/izder.png)
 
 - **Name**: izzy
 - **Pronouns**: they/them/theirs
