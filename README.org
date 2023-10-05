@@ -2,9 +2,7 @@
 #+DESCRIPTION: About me for github
 #+TOPICS: about-me, org-mode, github, izder
 
-#+html: <p align="center"><img width=256 src="img/IZDER.PNG" /></p>
-
-* =HI= o/
+* HI o/
 
 + I am an OpenBSD User, Self-Taught Programmer, Lisper, & OSS advocate
 
